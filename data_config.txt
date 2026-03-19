@@ -1,5 +1,2 @@
-Información 1,
-Información 2,
-Información 3,
-Información 4,
-Información 5
+TIPO|FECHA|TITULO|CONTENIDO
+Clase|21/03/2026|Contenido clase 1|Aproximación a los parámetros intracendentes
